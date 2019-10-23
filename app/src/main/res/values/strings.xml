@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="pyramids">Pyramids</string>
+    <string name="azher_park">Azhar-Park</string>
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="main_view">Home</string>
+    <string name="nile">The-Nile</string>
+
+    <string name="pyramids_text">The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt. As of November 2008, sources cite either 118 or 138 as the number of identified Egyptian pyramids. Most were built as tombs for the country\'s pharaohs and their consorts during the Old and Middle Kingdom periods.
+The earliest known Egyptian pyramids are found at Saqqara, northwest of Memphis. The earliest among these is the Pyramid of Djoser, which was built c. 2630–2610 BC during the Third Dynasty. This pyramid and its surrounding complex were designed by the architect Imhotep, and are generally considered to be the world\'s oldest monumental structures constructed of dressed masonry.
+The most famous Egyptian pyramids are those found at Giza, on the outskirts of Cairo. Several of the Giza pyramids are counted among the largest structures ever built.[8] The Pyramid of Khufu at Giza is the largest Egyptian pyramid. It is the only one of the Seven Wonders of the Ancient World still in existence. </string>
+
+    <string name="cairo_text">Cairo is the capital of Egypt. The city\'s metropolitan area is one of the largest in Africa, the largest in the Middle East and 15th-largest in the world, and is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area. Located near the Nile Delta,modern Cairo was founded in 969 AD by the Fatimid dynasty, but the land composing the present-day city was the site of ancient national capitals whose remnants remain visible in parts of Old Cairo.</string>
+
+    <string name="azher_park_text">Among several honors, this park is listed as one of the world\'s sixty great public spaces by the Project for Public Spaces (PPS). The park was created by the Historic Cities Support Programme (HCSP) of the Aga Khan Trust for Culture (AKTC), an entity of the Aga Khan Development Network (AKDN). The park, developed at a cost in excess of USD $30 million, was a gift to Cairo from Aga Khan IV: a descendant of the Fatimid Imam-Caliphs who founded the city of Cairo in the year 969.
+View of Mosque of Muhammad Ali from Studio Masr Restaurant
+The park project, a great urbanism initiative, included
+    the development of the park
+    archeology involving a 12th-century Ayyubid wall
+    historic building rehabilitation (the 14th Century Umm Sultan Shaban Mosque, the 13th century Khayrbek complex, and the Darb Shoughlan School)</string>
+
+    <string name="cairo_tower_text">The Cairo Tower is a free-standing concrete tower in Cairo, Egypt. At 187 m (614 ft), it has been the tallest structure in Egypt and North Africa for about 50 years. It was the tallest structure in Africa for ten years until 1971, when it was surpassed by Hillbrow Tower in South Africa.
+One of Cairo\'s well-known modern monuments, sometimes considered Egypt\'s second most famous landmark after the Pyramids of Giza, it stands in the Gezira district on Gezira Island in the River Nile, close to downtown Cairo. </string>
+
+    <string name="nile_text">The Nile is a major north-flowing river in northeastern Africa, and is the longest river in Africa and the disputed longest river in the world, as the Brazilian government says that the Amazon River is longer than the Nile. The Nile, which is about 6,650 km (4,130 mi)long, is an "international" river as its drainage basin covers eleven countries, namely, Tanzania, Uganda, Rwanda, Burundi, the Democratic Republic of the Congo, Kenya, Ethiopia, Eritrea, South Sudan, Republic of the Sudan and Egypt. In particular, the Nile is the primary water source of Egypt and Sudan.
+
+The Nile has two major tributaries, the White Nile and Blue Nile. The White Nile is considered to be the headwaters and primary stream of the Nile itself. The Blue Nile, however, is the source of most of the water and silt. The White Nile is longer and rises in the Great Lakes region of central Africa, with the most distant source still undetermined but located in either Rwanda or Burundi. It flows north through Tanzania, Lake Victoria, Uganda and South Sudan. The Blue Nile begins at Lake Tana in Ethiopia and flows into Sudan from the southeast. The two rivers meet just north of the Sudanese capital of Khartoum.
+
+The northern section of the river flows north almost entirely through the Sudanese desert to Egypt, then ends in a large delta and flows into the Mediterranean Sea. Egyptian civilization and Sudanese kingdoms have depended on the river since ancient times. Most of the population and cities of Egypt lie along those parts of the Nile valley north of Aswan, and nearly all the cultural and historical sites of Ancient Egypt are found along river banks. </string>
+
+</resources>
